@@ -1,4 +1,4 @@
-# speaker-identification-
+# speaker-identification
 CONTEXT
 
 Speaker Recognition has always been a cool part to work on in AI.
