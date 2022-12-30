@@ -1,4 +1,4 @@
-# speaker-identification
+# SPEAKER IDENTIFICATION by Soumya manjeti, vinod chandra, syed zoya mehek.
 CONTEXT
 
 Speaker Recognition has always been a cool part to work on in AI.
